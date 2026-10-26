@@ -1,17 +1,17 @@
 {
-    "id": 6767676767,
+    "id": 676767,
     "name": "Jujuo",
     "author": "Radioactivelli",
     "creators": ["Radioactivelli"],
     "verifier": "Radioactivelli",
     "verification": "https://medal.tv/games/geometry-dash/clips/nNvQUpzs451mRXqkg?invite=cr-MSxaeFgsNTI1MTY1NTUx",
-    "percentToQualify": 100,
-    "password": "Not Copyable",
+    "percentToQualify": 50,
+    "password": "Free to copy",
     "records": [
         {
             "user": "Sample_Victor_1",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
+            "percent": 50,
             "hz": 360
         }
     ]
